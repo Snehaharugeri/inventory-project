@@ -1,0 +1,23 @@
+# Ignore Frontend dependencies
+**/node_modules/
+**/build/
+
+# Ignore Backend build files
+**/target/
+**/*.class
+**/.settings/
+**/.classpath
+**/.project
+**/bin/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE and System locks
+**/.metadata/
+**/EBWebView/
+**/node_modules/
+**/target/
+**/bin/
+.recommenders/
